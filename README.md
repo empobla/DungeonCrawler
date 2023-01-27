@@ -120,7 +120,7 @@ This project requires Unity Engine version 2021.2.3f1.
 
 This project is property of Emilio Popovits Blake. All rights are reserved. Modification or redistribution of this code must have _explicit_ consent from the owner.
 
-This program was developed for educational purposes only. Media assets contained within this program may not be redistributed without written permission of authors.
+Sample code by Leonard D. Brown, University of Arizona. This program was developed for educational purposes only. Media assets contained within this program may not be redistributed without written permission of authors.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
